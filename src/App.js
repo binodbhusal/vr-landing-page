@@ -1,9 +1,10 @@
 import './App.css';
+import Banner from './components/Banner';
 
 function App() {
   return (
     <div className="app">
-      Welcome to VR landing page
+      <Banner />
     </div>
   );
 }
