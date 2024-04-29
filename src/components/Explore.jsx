@@ -5,14 +5,17 @@ const Explore = () => (
         <h3
           className="text-3xl font-semibold mb-8"
           data-aos="fade-right"
-          data-aos-offset="1000"
+          data-aos-offset="300"
+          data-aos-delay="1600"
+
         >
           Explore product in new way
         </h3>
         <p
           className="max-w-xs mb-12"
           data-aos="fade-right"
-          data-aos-offset="1300"
+          data-aos-offset="300"
+          data-aos-delay="1900"
         >
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum necessitatibus
           molestiae velit nesciunt veritatis, soluta similique inventore nisi repudiandae corrupti.
