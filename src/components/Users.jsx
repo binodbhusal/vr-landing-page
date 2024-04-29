@@ -24,7 +24,11 @@ const users = [
 ];
 const Users = () => (
 
-  <div className="flex flex-col justify-center items-center space-x-5 space-y-2 lg:flex-row space-y-0 lg:justify-start">
+  <div
+    className="flex flex-col justify-center items-center space-x-5 space-y-2 lg:flex-row space-y-0 lg:justify-start"
+    data-aos="fade-down"
+    data-aos-delay="900"
+  >
     <div className="flex -space-x-2">
       {users.map((image) => (
         <div className="w-12 h-12 rounded-full" key={image.id}>
