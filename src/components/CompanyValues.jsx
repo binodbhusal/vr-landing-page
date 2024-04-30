@@ -22,7 +22,7 @@ const CompanyValues = () => (
           <p
             className="max-w-xs mb-12"
           >
-            We specialize in creating visual identities for products and branda in your company.
+            We specialize in creating visual identities for products and brand in your company.
           </p>
         </div>
         <div

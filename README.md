@@ -22,11 +22,11 @@
 
 # 📖  React project - VR Landing Page <a name="about-project"></a>
 
-**VR Landing Page**  An immersive VR landing page experience that introduces users to the world of virtual reality. Through stunning visuals, interactive elements, and engaging content, the landing page will showcase the latest VR technology, highlight its applications across various industries.
+**VR Landing Page**  is an immersive VR landing page experience that introduces users to the world of virtual reality. Through stunning visuals, interactive elements, and engaging content, the landing page will showcase the latest VR technology, highlight its applications across various industries.
 ![VR Landing Page](./landing_page.png)
 
 ## 🛠 Built With <a name="built-with"></a>
-- React: JavaScript library for building the user interface components and managing the application state.
+- <Srrong>React <a href="https://react.dev/"></a></Strong>: JavaScript library for building the user interface components and managing the application state.
  
 ## 🛠 Libraries & Frameworks
 <ul>
