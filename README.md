@@ -46,7 +46,7 @@
 - **Coding Practices** Adhered to industry-leading coding standards, ensuring clean, maintainable, and efficient code across  project. 
 - **GitFlow** I used Gitflow to keep the code versions smooth and organized.
 ## 🚀 Live Demo <a name="live-demo"></a>
-[ Live Demo Link](#URL)
+[ Live Demo Link](https://vrlandingpage.netlify.app/)
 ## 💻 Getting Started
 
 To get this project to run on your machine you need to follow some easy steps
