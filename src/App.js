@@ -24,7 +24,7 @@ function App() {
     <div className="relative overflow-hidden before:w-[600px] before:h-[200px] before:bg-circle before:bg-no-repeat before:absolute before:-top-16 before:left-600[px] before:hidden before:lg:flex">
       <Header setNavMobile={setNavMobile} />
       <Banner />
-      <div className={`${navMobile ? 'right-0 opacity-100 visible' : '-right-full opacity-0 invisible'} fixed top-0 bottom-0 w-48 transition-all delay-100 duration-100 animate`}>
+      <div className={`${navMobile ? 'right-0 ' : '-right-full '} fixed top-0 bottom-0 w-48 transition-all duration-400 ease-in-out transform`}>
         <NavMobile setNavMobile={setNavMobile} />
       </div>
       <Experience />

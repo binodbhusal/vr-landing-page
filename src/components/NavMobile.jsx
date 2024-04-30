@@ -3,8 +3,10 @@ import { IoClose } from 'react-icons/io5';
 const NavMobile = ({ setNavMobile }) => (
 
   <nav
-    className="lg:hidden bg-[#251f3f] w-full h-full transition-all lg:hidden bg-[#251f3f] w-full h-full transition-all "
+    className="lg:hidden bg-[#251f3f] w-full h-full"
+
   >
+
     <IoClose
       className="text-3xl absolute left-4 top-6 cursor-pointer"
       onClick={() => setNavMobile(false)}
